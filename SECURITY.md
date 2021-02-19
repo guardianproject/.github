@@ -1,6 +1,6 @@
 
-Security to central to everything with do. We welcome any and all
-review of our free software!  We treat security issuse with
+Security is central to everything we do. We welcome any and all
+review of our free software!  We treat security issues with
 confidentiality until responsibly disclosed.  We will happily give
 credit where credit is due.
 
